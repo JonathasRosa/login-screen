@@ -47,7 +47,7 @@ O desenvolvimento dessa aplicação foi em HTML5 e CSS3 para fazer a marcação 
 
 ## 📌 Versão
 
-Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/To-Do).
+Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/login-screen).
 
 ## ✒️ Autor
 
@@ -64,7 +64,7 @@ Instagram - [@jonathas_rosa85](https://www.instagram.com/jonathas_rosa85/)
 
 Distribuído sobre a licença. Veja `MIT License` para mais informações.
 
-[https://github.com/JonathasRosa/To-Do/blob/main/LICENSE](https://github.com/JonathasRosa)
+[https://github.com/JonathasRosa/login-screen/blob/main/LICENSE](https://github.com/JonathasRosa)
 
 ## 🎁 Expressões de gratidão
 
